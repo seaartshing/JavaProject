@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EnvironmentConf/EnvironmentConf.iml" filepath="$PROJECT_DIR$/EnvironmentConf/EnvironmentConf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProject.iml" filepath="$PROJECT_DIR$/JavaProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb_20181110/JavaWeb_20181110.iml" filepath="$PROJECT_DIR$/JavaWeb_20181110/JavaWeb_20181110.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Main/Main.iml" filepath="$PROJECT_DIR$/Main/Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mysql/Mysql.iml" filepath="$PROJECT_DIR$/Mysql/Mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sybase/Sybase.iml" filepath="$PROJECT_DIR$/Sybase/Sybase.iml" />
+    </modules>
+  </component>
+</project>
